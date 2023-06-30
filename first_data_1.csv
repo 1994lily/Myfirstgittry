@@ -1,0 +1,22 @@
+PassengerId,Name,Sex,Age
+1,"Braund, Mr. Owen Harris",male,22.0
+2,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0
+3,"Heikkinen, Miss. Laina",female,26.0
+4,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0
+5,"Allen, Mr. William Henry",male,35.0
+6,"Moran, Mr. James",male,
+7,"McCarthy, Mr. Timothy J",male,54.0
+8,"Palsson, Master. Gosta Leonard",male,2.0
+9,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0
+10,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0
+11,"Sandstrom, Miss. Marguerite Rut",female,4.0
+12,"Bonnell, Miss. Elizabeth",female,58.0
+13,"Saundercock, Mr. William Henry",male,20.0
+14,"Andersson, Mr. Anders Johan",male,39.0
+15,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0
+16,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0
+17,"Rice, Master. Eugene",male,2.0
+18,"Williams, Mr. Charles Eugene",male,
+19,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0
+20,"Masselmani, Mrs. Fatima",female,
+21,"Fynney, Mr. Joseph J",male,35.0
